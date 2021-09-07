@@ -1,3 +1,4 @@
+//https://prnt.sc/1rhqhuh
 const pandemicStart = document.getElementById("pandemicStart")
 const pandemicEnd = document.getElementById("pandemicEnd")
 var counter = 0

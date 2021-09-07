@@ -1,0 +1,25 @@
+body {
+    font-size: 24px;
+    font-weight: 800;
+}
+
+.infected {
+    background-color: red;
+}
+
+.uninfected {
+    background-color: green;
+}
+
+.ocean {
+    background-color:lightblue;
+}
+
+.block {
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    margin-right: 3px;
+    border: 1px solid grey;
+    opacity: 40%;
+}
